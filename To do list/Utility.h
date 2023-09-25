@@ -5,7 +5,6 @@
 #include <ctime>
 #include <iostream>
 
-
 namespace utility // to avoid variable identifier collision
 {
 	// a way to get the current time (copied from the internet)

@@ -146,9 +146,9 @@
     <ClCompile Include="To do list.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Task.h" />
+    <ClInclude Include="Model.h" />
     <ClInclude Include="Utility.h" />
-    <ClInclude Include="ListManager.h" />
+    <ClInclude Include="Controller.h" />
     <ClInclude Include="View.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
